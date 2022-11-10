@@ -1,0 +1,4 @@
+There are 3 student in total. 
+ There is 1student(s) getting GPA greater that 3.5 .This is  33.33%
+There is/are 0student(s) getting GPA less than 1 .This is  0.00%
+ 
